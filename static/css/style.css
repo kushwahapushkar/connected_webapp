@@ -54,7 +54,15 @@ body{
 }
 
 .image1{
+  text-align: center;
+  padding: 1rem;
+  /* border: 2px solid white; */
   
+}
+
+.image2{
+  text-align: center;
+  padding: 1rem;
 }
 
 /* deblur btn */
